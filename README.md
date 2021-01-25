@@ -1,1 +1,1 @@
-# Cancer_Detection
+# Plant Disease Detection
